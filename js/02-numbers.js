@@ -15,3 +15,5 @@ console.log(clear);
 console.log(2);
 
 const pinigine = 0;
+
+const amzius = 20;
